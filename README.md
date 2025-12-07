@@ -19,7 +19,7 @@ Under the guidance of Amit Butail.
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/visionxusd.git
+[git clone https://github.com/YOUR_USERNAME/visionxusd.git](https://github.com/megheshsaini/visionxusd.git)
 cd visionxusd
 
 # Install dependencies
