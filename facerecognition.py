@@ -1,6 +1,7 @@
 """
 face_identification_colab.py
 ----------------------------
+created by Group 11 for USD Computer Vision project.
 Robust face identification system for Colab.
 Requirements:
     pip install deepface==0.0.95 gspread opencv-python-headless numpy
