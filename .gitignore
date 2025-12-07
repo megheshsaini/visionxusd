@@ -1,0 +1,31 @@
+# Sensitive files - DO NOT UPLOAD
+face_recognition.json
+*.json
+
+# Database files
+face_embeddings.pkl
+encodings.pkl
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+faceenv/
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
