@@ -1,0 +1,9 @@
+deepface==0.0.95
+opencv-python>=4.5.0
+numpy>=1.19.0
+tensorflow>=2.10.0
+gspread>=5.0.0
+google-auth>=2.0.0
+gradio>=4.0.0
+matplotlib>=3.3.0
+Pillow>=8.0.0
