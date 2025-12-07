@@ -1,6 +1,12 @@
 # 🎭 Face Recognition System
 
-Computer Vision final team project at USD using DeepFace for robust face recognition.
+Computer Vision final team project at USD using DeepFace for robust face recognition submitted by Group 11:
+
+1. Meghesh Saini
+2. Aishwarya Gulhane
+3. Dhrub Satyam
+
+Under the guidance of Amit Butail.
 
 ## 🚀 Features
 
@@ -87,4 +93,4 @@ Edit these settings in `gradio_app.py`:
 
 ## 📄 License
 
-USD Computer Vision Course Project
+under USD Computer Vision Course Project (Guidance of Amit Butail)
